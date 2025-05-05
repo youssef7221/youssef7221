@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  ⚡ Fun fact: I love clean UI, solving real problems with code, and football ⚽
+  ⚡ Fun fact: I love clean UI, solving real problems with code
 </p>
 
 ---
