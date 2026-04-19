@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef Ibrahim</h1>
-<h3 align="center">A passionate Flutter and Java Developer from Egypt 🇪🇬</h3>
+<h3 align="center">A passionate Flutter & Backend Developer (Java · Node.js) from Egypt 🇪🇬</h3>
 
 <p align="left">
   📫 How to reach me:<br>
@@ -12,22 +12,25 @@
 </p>
 
 <p align="left">
-  ⚡ Fun fact: I love clean UI, solving real problems with code
+  ⚡ Fun fact: I love clean UI and solving real problems with code
 </p>
 
 ---
 
 ### 🛠️ Languages and Tools:
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
@@ -36,6 +39,7 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=youssef7221&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef7221&layout=compact&theme=radical" />
@@ -44,6 +48,7 @@
 ---
 
 ### 🔥 Contributions
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef7221&theme=radical" />
 </p>
